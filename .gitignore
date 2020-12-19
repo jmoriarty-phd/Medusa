@@ -1,3 +1,22 @@
+### Custom
+*.idea/
+*.idea\
+.idea/
+.idea\
+mesh.xml
+workspace.xml
+*.pyc
+
+__pycache__
+ignore*
+Ignore/
+ignore/
+Ignore\
+ignore\
+sandbox*.py
+
+
+### Autognerated by GitHub
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
